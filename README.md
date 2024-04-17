@@ -1,2 +1,7 @@
-# Software_install_tutorial
-ubuntu、docker、gpu驱动、数据库等安装
+[ubuntu20_server版-系统配置](https://blog.csdn.net/weixin_51133173/article/details/137892445)
+
+[ubuntu安装gpu驱动](https://blog.csdn.net/weixin_51133173/article/details/137893919)
+
+[ubuntu安装docker](https://blog.csdn.net/weixin_51133173/article/details/137833833)
+
+[ubuntu安装redis、redisinsight](https://blog.csdn.net/weixin_51133173/article/details/137844508)
