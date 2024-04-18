@@ -5,3 +5,5 @@
 [ubuntu安装docker](https://blog.csdn.net/weixin_51133173/article/details/137833833)
 
 [ubuntu安装redis、redisinsight](https://blog.csdn.net/weixin_51133173/article/details/137844508)
+
+[ubuntu安装milvus、可视化](https://blog.csdn.net/weixin_51133173/article/details/137941959)
