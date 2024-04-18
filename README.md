@@ -10,3 +10,4 @@
 
 [ubuntu安装elasticsearch、kibana可视化](https://blog.csdn.net/weixin_51133173/article/details/137943814)
 
+[ubuntu安装nginx](https://blog.csdn.net/weixin_51133173/article/details/137945261)
