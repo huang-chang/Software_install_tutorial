@@ -1,3 +1,5 @@
+[下载显卡的历史版本驱动](https://blog.csdn.net/weixin_51133173/article/details/138202452)
+
 [ubuntu20_server版-系统配置](https://blog.csdn.net/weixin_51133173/article/details/137892445)
 
 [ubuntu安装gpu驱动](https://blog.csdn.net/weixin_51133173/article/details/137893919)
